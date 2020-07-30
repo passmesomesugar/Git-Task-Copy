@@ -1,1 +1,1 @@
-# I-Can-Win
+"Junior Test Automation Engineer in Java" course tasks by EPAM.
