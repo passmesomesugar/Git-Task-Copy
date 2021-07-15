@@ -1,1 +1,1 @@
-"Junior Test Automation Engineer in Java" course tasks.
+"Junior Test Automation Engineer in Java" EPAM course tasks.
